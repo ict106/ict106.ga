@@ -1,1 +1,1 @@
-# ict106.github.io
+WELCOME TO ICT106
